@@ -1,5 +1,6 @@
 .alpha{
-    width: 100vw;
-    height: 100vh;
+    position: relative;
+    min-width: 100vmin;
+    min-height: 100vmax;
 }
 
